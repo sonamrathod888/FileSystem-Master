@@ -40,7 +40,7 @@ Using this File System
 
 Clone this repository
 
-$ git clone https://github.com/Avinashchavan1443/Filesystem MyFS
+$ git clone https://github.com/sonamrathod888/Filesystem-Master MyFS
 
 Cd into the folder 'MyFS' and mount the filesystem using the makefile
 
